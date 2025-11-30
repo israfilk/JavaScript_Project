@@ -821,11 +821,7 @@ dfhjgfghfkgh */
 }
 
 
-/* ============================= */
-/*         RESPONSIVE           */
-/* ============================= */
 
-/* ----- TABLET (max-width: 992px) ----- */
 @media (max-width: 992px) {
 
     .top-bar {
@@ -923,7 +919,7 @@ dfhjgfghfkgh */
 }
 
 
-/* ----- MOBILE (max-width: 600px) ----- */
+
 @media (max-width: 600px) {
 
     .top-bar {
